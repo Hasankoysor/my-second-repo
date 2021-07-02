@@ -8,3 +8,8 @@ h2{
 a:hover{
     color: crimson;
 }
+.change{
+    border: crimson solid 10px;
+    padding: 100px;
+    margin: 50px;
+}
