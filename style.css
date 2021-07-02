@@ -1,0 +1,10 @@
+li{
+    color: chartreuse;
+    font-size: 20px;
+}
+h2{
+    color: chocolate;
+}
+a:hover{
+    color: crimson;
+}
